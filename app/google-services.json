@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121455448428",
+    "firebase_url": "https://suamycarritocompras.firebaseio.com",
+    "project_id": "suamycarritocompras",
+    "storage_bucket": "suamycarritocompras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121455448428:android:4b017ed2cd60f3c3",
+        "android_client_info": {
+          "package_name": "com.example.com.suamycarritocompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121455448428-opd1tccknf4gp7ds7g6s02piavgfla49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.com.suamycarritocompras",
+            "certificate_hash": "a86de917579a320654e96e038ac50cd591959e27"
+          }
+        },
+        {
+          "client_id": "121455448428-rhdpoh998mig15n6gvgbng1dd47ohhpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpS2VOtinmxkhVnXDtQO4NXnglmV2fLHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121455448428-rhdpoh998mig15n6gvgbng1dd47ohhpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
